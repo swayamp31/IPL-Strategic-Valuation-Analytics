@@ -20,7 +20,7 @@ https://public.tableau.com/app/profile/swayam.patel31
 ## 🧠 Key Strategic Insights
 1. **Top-Order Visibility Commands the Highest Premium:** The auction market heavily favors Opening Batters (averaging ₹6.02 Cr), while offering high-leverage value for Pure Specialists like Middle-Order Batters (₹2.44 Cr) at a steep discount.
 2. **Run Inflation is Driven by Volume, Not Reckless Risk:** Average team scores have exploded from the 140s to over 186 runs, yet wicket-loss rates remain perfectly static.
-3. **Run Efficiency Outpaces Currency Expansion:** Contrary to the belief that auction prices are inflated, an inflation-adjusted correlation of -0.90 reveals that the "real cost" of production has decreased significantly over time. Modern franchises are securing substantially higher on-field efficiency per rupee spent compared to early league seasons
+3. **Run Efficiency Outpaces Currency Expansion:** Contrary to the belief that auction prices are inflated, an inflation-adjusted correlation of -0.90 reveals that the "real cost" of production has decreased significantly over time. Modern franchises are securing substantially higher on-field efficiency per rupee spent compared to early league seasons.
 
 ## ⚙️ Data Architecture & Wrangling Challenges
 * Engineered a multi-dimensional relational model to clean and standardize over **255,000 granular, ball-by-ball delivery records**.
